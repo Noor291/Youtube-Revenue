@@ -16,7 +16,7 @@ This project focuses on predicting YouTube video revenue using different machine
 - **Interpretability and Insights:** Feature importance and coefficients were analyzed to gain insights into revenue influencers.
 
 ## Getting Started
-1. Clone this repository: `git clone https://github.com/Noor291/youtube-revenue-prediction.git`
+1. Clone this repository: `git clone https://github.com/Noor291/Youtube-Revenue.git`
 2. Run the Jupyter Notebook files for data preprocessing, model training, and evaluation.
 
 ## Accuracy
