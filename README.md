@@ -1,4 +1,4 @@
-# YouTube Revenue Prediction Project
+# YouTube Revenue Prediction
 <img src="https://github.com/Noor291/Youtube-Revenue/assets/78134535/d68f2dd4-925a-4ab8-9b35-3bd738b1c5b7" align=right height=200px>
 
 ## Overview
